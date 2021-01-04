@@ -32,6 +32,7 @@
 .backButton{
   border: solid #821169;
   border-width: 0 0.5vw 0.5vw 0; 
+  /*display: inline-block;*/
   padding: 0.5vw;
   background-color: #1E022C;
    transform: rotate(135deg);
@@ -41,6 +42,7 @@
 .nextButton{
   border: solid #821169;
   border-width: 0 0.5vw 0.5vw 0; 
+  /*display: inline-block;*/
   padding: 0.5vw;
   background-color: #1E022C;
    transform: rotate(-45deg);
